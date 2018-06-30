@@ -1,6 +1,6 @@
 # ERN
 
-This repository contains the impletation of our paper, "ERN: Edge Loss Reinforced Semantic Segmentation Network for Remote Sensing Images".
+This repository contains the impletation of our paper, "ERN: Edge Loss Reinforced Semantic Segmentation Network for Remote Sensing Images"(under review).
 
 In this repository you will find:
 - ERN prototxt and caffemodel;
