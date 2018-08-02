@@ -24,7 +24,7 @@ In this repository you will find:
   - Run python VH_infer.py in terminal.
   
 ### 4. Stitch the patches
-  - We have split the image using https://github.com/Walkerlikesfish/HSNRS/tree/master/script/data_preprocessing
+  - We have split the images using https://github.com/Walkerlikesfish/HSNRS/tree/master/script/data_preprocessing
     - Make sure the **file path** in VH_assemble.py & UAV_assemble.py is correct;
     - Run python VH_assemble.py in terminal.
     
