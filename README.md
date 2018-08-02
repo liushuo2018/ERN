@@ -1,13 +1,13 @@
 # ERN
 
-This repository contains the impletation of our paper, "ERN: Edge Loss Reinforced Semantic Segmentation Network for Remote Sensing Images"(under review).
+This repository contains the implementation of our paper, "ERN: Edge Loss Reinforced Semantic Segmentation Network for Remote Sensing Images"(under review).
 
 In this repository you will find:
 - ERN prototxt and caffemodel;
 - Python codes for training and testing;
 - C++ code (VS2013 + OpenCV3.0) for simple shadow detection; 
 
-## Requirement and Useage
+## Requirement and Usage
 
 ### 1. [Caffe](https://github.com/BVLC/caffe)
   - Please follow Yu Liu's instruction and install the modified version of Caffe from following link: https://github.com/Walkerlikesfish/CaffeGeo.git. 
