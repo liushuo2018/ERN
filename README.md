@@ -5,7 +5,7 @@ This repository contains the impletation of our paper, "ERN: Edge Loss Reinforce
 In this repository you will find:
 - ERN prototxt and caffemodel;
 - Python codes for training and testing;
-- C++ project (VS2013 + OpenCV3.0) for simple shadow detection; 
+- C++ code (VS2013 + OpenCV3.0) for simple shadow detection; 
 
 ## Requirement and Useage
 
