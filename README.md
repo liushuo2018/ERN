@@ -13,12 +13,12 @@ In this repository you will find:
   - Please follow Yu Liu's instruction and install the modified version of Caffe from following link: https://github.com/Walkerlikesfish/CaffeGeo.git. 
   - Notice that if you use Caffe, please cite their papers.(https://github.com/BVLC/caffe).
 
-### 2. Training
+### 2. Train
   - Prepare the data;
   - Make sure the **file path** in solver.prototxt & train.prototxt & run_training.py is correct;
   - Run python run_training.py in terminal.
   
-### 3. Testing（inference）
+### 3. Test（inference）
   - Prepare the data;
   - Make sure the **file path** in infer.prototxt & VH_infer.py & UAV_infer.py is correct;
   - Run python VH_infer.py in terminal.
