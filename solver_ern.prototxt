@@ -1,0 +1,13 @@
+test_iter: 206
+test_interval: 54764
+base_lr: 1e-05
+display: 54764
+max_iter: 56764000
+lr_policy: "fixed"
+momentum: 0.99
+weight_decay: 1e-09
+snapshot: 54764
+snapshot_prefix: "/home/lh/Documents/HSNRS/net/VH_ERN/snapshot/ern"
+solver_mode: GPU
+net: "/home/lh/Documents/HSNRS/net/VH_ERN/train_ern.prototxt"
+solver_type: ADAM
