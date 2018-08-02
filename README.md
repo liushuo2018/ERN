@@ -10,8 +10,8 @@ In this repository you will find:
 ## Requirement and Useage
 
 ### 1. Caffe
-  - Please follow Yu Liu's instruction and install the modified version of Caffe from following link: https://github.com/Walkerlikesfish/CaffeGeo.git. 
-  - Notice that if you use Caffe, please cite their papers.(https://github.com/BVLC/caffe).
+  - Please follow Yu Liu's instruction and install the modified version of [Caffe](https://github.com/BVLC/caffe) from following link: https://github.com/Walkerlikesfish/CaffeGeo.git. 
+  - Notice that if you use Caffe, please cite their papers.
 
 ### 2. Train
   - Prepare the data;
