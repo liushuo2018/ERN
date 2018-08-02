@@ -9,26 +9,26 @@ In this repository you will find:
 
 ## Requirement and Useage
 
-1. Caffe
+### 1. Caffe
   - Please follow Yu Liu's instruction and install the modified version of Caffe from following link: https://github.com/Walkerlikesfish/CaffeGeo.git. 
   - Notice that if you use Caffe, please cite their papers.(https://github.com/BVLC/caffe).
 
-2. Training
+### 2. Training
   - Prepare the data;
   - Make sure the **file path** in solver.prototxt & train.prototxt & run_training.py is correct;
   - Run python run_training.py in terminal.
   
-3. Testing
+### 3. Testing（inference）
   - Prepare the data;
   - Make sure the **file path** in infer.prototxt & VH_infer.py & UAV_infer.py is correct;
   - Run python VH_infer.py in terminal.
   
-4. others
-  - Stitch the patches if you split the image as https://github.com/Walkerlikesfish/HSNRS/tree/master/script/data_preprocessing
+### 4. Stitch the patches
+  - We have split the image using https://github.com/Walkerlikesfish/HSNRS/tree/master/script/data_preprocessing
     - Make sure the **file path** in VH_assemble.py & UAV_assemble.py is correct;
     - Run python VH_assemble.py in terminal.
     
-5. Evaluate the semantic segmentation performance in shadow-affected regions
+### 5. Evaluate the semantic segmentation performance in shadow-affected regions
   - Shadow detection for ISPRS Vaihingen Dataset (Windows)
     - VS2013 + OpenCV3.0
     - The contrast preserving decolorization has been used. 
