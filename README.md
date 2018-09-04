@@ -1,6 +1,6 @@
 # ERN
 
-This repository contains the implementation of our paper, "ERN: Edge Loss Reinforced Semantic Segmentation Network for Remote Sensing Images"(under review).
+This repository contains the implementation of our paper, ["ERN: Edge Loss Reinforced Semantic Segmentation Network for Remote Sensing Images"](http://www.mdpi.com/2072-4292/10/9/1339).
 
 In this repository you will find:
 - ERN prototxt and caffemodel;
@@ -19,7 +19,7 @@ In this repository you will find:
   - Run python run_training.py in terminal.
   
 ### 3. Test（inference）
-  - Prepare the data;
+  - Prepare the data;(In our experiments, we first splited the original image into 256\*256 )
   - Make sure the **file path** in infer.prototxt & VH_infer.py & UAV_infer.py is correct;
   - Run python VH_infer.py in terminal.
   
