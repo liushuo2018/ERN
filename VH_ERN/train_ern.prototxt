@@ -2253,7 +2253,7 @@ layer {
     lr_mult: 1.0
   }
   convolution_param {
-    num_output: 64
+    num_output: 2
     bias_term: false
     kernel_size: 4
     stride: 2
@@ -2285,7 +2285,7 @@ layer {
     lr_mult: 1.0
   }
   convolution_param {
-    num_output: 64
+    num_output: 2
     bias_term: false
     kernel_size: 8
     stride: 4
@@ -2504,7 +2504,7 @@ layer {
     lr_mult: 1.0
   }
   convolution_param {
-    num_output: 64
+    num_output: 2
     bias_term: false
     kernel_size: 4
     stride: 2
@@ -2536,7 +2536,7 @@ layer {
     lr_mult: 1.0
   }
   convolution_param {
-    num_output: 64
+    num_output: 2
     bias_term: false
     kernel_size: 8
     stride: 4
