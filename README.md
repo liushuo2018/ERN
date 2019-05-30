@@ -38,6 +38,17 @@ In this repository you will find:
 
   
 ## License and Citation
+Please cite the following paper if you find the project helpful to your research.
+
+@article{Liu2018ERN,
+  title={ERN: Edge Loss Reinforced Semantic Segmentation Network for Remote Sensing Images},
+  author={Liu, Shuo and Ding, Wenrui and Liu, Chunhui and Liu, Yu and Li, Hongguang},
+  journal={Remote Sensing},
+  volume={10},
+  number={9},
+  pages={1339},
+  year={2018},
+}
 
 This code is shared under a Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) Creative Commons licensing.
 
